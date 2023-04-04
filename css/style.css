@@ -19,7 +19,6 @@ a {
   height: 250px;
   position: relative;
   margin: 100px auto;
-  overflow: hidden;
 }
 #slider ul {
   position: absolute;
